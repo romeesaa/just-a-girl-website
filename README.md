@@ -11,3 +11,8 @@ my very own personal website that i made to share with others and to gain aura +
 # what i learnt
 got to learn alot of css,html and thats quite fun isnt it yay
 i think this quite good for my first ever completed website woho.
+
+1)divs,headers and footers
+2) nav tags
+3) ANIMATING IN CSS WOAH
+and some basic stuff as well but these were the most fun
