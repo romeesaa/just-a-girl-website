@@ -9,5 +9,5 @@ my very own personal website that i made to share with others and to gain aura +
 
 
 # what i learnt
-got to learn alot of css,html and a bit of java script as well.
+got to learn alot of css,html and thats quite fun isnt it yay
 i think this quite good for my first ever completed website woho.
